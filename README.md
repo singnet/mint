@@ -2,6 +2,10 @@
    <img src="banner.png">
 </p> 
 
+# FORK OF MINT LAUNCHER GPL #
+
+The purpose of this fork of Mint ( https://github.com/hellzerg/mint ) is to customize look/feel to support managing and bridging Verses as an installer/launcher/sync/bookmarks.
+
 ## Summary: ##
 
 A minimal app launcher residing in your taskbar
